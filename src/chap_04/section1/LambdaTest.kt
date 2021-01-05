@@ -1,4 +1,4 @@
-package kotlin.chap_04.section1
+package chap_04.section1
 
 fun main (){
     val result : Int

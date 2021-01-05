@@ -1,4 +1,4 @@
-package kotlin.chap_04.section2
+package chap_04.section2
 
 fun sum( a:Int, b: Int) : Int{
     return a + b

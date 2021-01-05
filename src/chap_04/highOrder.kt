@@ -1,4 +1,4 @@
-package kotlin.chap_04
+package chap_04
 
 
 fun main(){
